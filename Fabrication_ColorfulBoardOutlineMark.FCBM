@@ -1,0 +1,34 @@
+G04 Layer: Fabrication_ColorfulBoardOutlineMark*
+G04 EasyEDA Pro v2.1.54, 2024-04-10 12:55:47*
+G04 Gerber Generator version 0.3*
+G04 Scale: 100 percent, Rotated: No, Reflected: No*
+G04 Dimensions in millimeters*
+G04 Leading zeros omitted, absolute positions, 3 integers and 5 decimals*
+%FSLAX35Y35*%
+%MOMM*%
+%ADD10C,0.254*%
+%ADD11C,0.508*%
+G75*
+
+G04 colorScreenSilk_board Start*
+G04 Rect Start*
+G54D10*
+G01X0Y10000000D02*
+G01X0Y0D01*
+G01X10000000D01*
+G01Y10000000D01*
+G01X0D01*
+G04 Rect End*
+G04 colorScreenSilk_board End*
+
+G04 colorScreenSilk_Mark Start*
+G04 Pad Start*
+G54D11*
+G01X5000000Y5025400D03*
+G01X4974600Y4974600D03*
+G01X5050800Y5000000D03*
+G04 Pad End*
+G04 colorScreenSilk_Mark End*
+
+
+M02*
